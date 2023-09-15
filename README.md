@@ -5,7 +5,7 @@
 
 - ⏮ Previous Project [🫀Data Analysis Projects and Machine](https://github.com/evanmathew/Heart-Analysis-Using-Logistic-Regression/tree/main)
 
-- ⚡ My Current Project **🎥 Movie Recommendation System Model**
+- ⚡ My Current Project **🎥 Movie Recommendation System Model (https://www.kaggle.com/code/evansajumathew/movie-recommendation-system)**
 
 - 🏆 My Latest Project [🎋 Sugarcane Production Country Analysis](https://github.com/evanmathew/sugarcane_production_country_anlaysis/tree/main)
 
