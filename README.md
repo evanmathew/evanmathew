@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evanmathew&label=Profile%20views&color=0e75b6&style=flat" alt="evanmathew" /> </p>
 
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/evansajumathew/details/projects/](https://github.com/evanmathew/Projects)
+
 - ⏮ Previous Project [🫀Data Analysis Projects and Machine](https://github.com/evanmathew/Heart-Analysis-Using-Logistic-Regression/tree/main)
 
 - ⚡ My Current Project **🎥 Movie Recommendation System Model (https://www.kaggle.com/code/evansajumathew/movie-recommendation-system)**
@@ -10,8 +12,6 @@
 - 🏆 My Latest Project [🎋 Sugarcane Production Country Analysis](https://github.com/evanmathew/sugarcane_production_country_anlaysis/tree/main)
 
 - 🕸️ Web Scraping [🔴 YouTube Data Scraping](https://github.com/evanmathew/YouTube-Data-Scrapping)
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/evansajumathew/details/projects/](https://www.linkedin.com/in/evansajumathew/details/projects/)
 
 - 🌱 I’m currently learning **Machine Learning and Natural Processing Language**
 
