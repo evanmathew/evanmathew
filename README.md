@@ -17,9 +17,9 @@
 
 - 📫 How to reach me **evanptc@gmail.com**
 
--  [💼 My Portfolio](https://www.datascienceportfol.io/evansajumathew)
+-  💼 My Portfolio [datascienceportfol.io/evansajumathew](https://www.datascienceportfol.io/evansajumathew)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1e_Lr8hnxFZcFY5lJuNkXDz_E-phOZqRT/view?usp=sharing](https://drive.google.com/file/d/1e_Lr8hnxFZcFY5lJuNkXDz_E-phOZqRT/view?usp=sharing)
+- 📄 Resume [Google Drive ](https://drive.google.com/file/d/1e_Lr8hnxFZcFY5lJuNkXDz_E-phOZqRT/view?usp=sharing)
 
 - ⚡ Fun fact **I'm Actually good in graphic designing**
 
