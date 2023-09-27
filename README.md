@@ -9,13 +9,15 @@
 
 - ⚡ My Current Project **🎥 Movie Recommendation System Model (https://www.kaggle.com/code/evansajumathew/movie-recommendation-system)**
 
-- 🏆 My Latest Project [🎋 Sugarcane Production Country Analysis](https://github.com/evanmathew/sugarcane_production_country_anlaysis/tree/main)
+- 🏆 My Latest Project [🏪 Rossman Store Sale Analysis](https://github.com/evanmathew/Projects/tree/main/Data%20Analysis%20(EDA)/Rossman%20Store%20Sale%20Analysis)
 
 - 🕸️ Web Scraping [🔴 YouTube Data Scraping](https://github.com/evanmathew/YouTube-Data-Scrapping)
 
 - 🌱 I’m currently learning **Machine Learning and Natural Processing Language**
 
 - 📫 How to reach me **evanptc@gmail.com**
+
+-  [💼 My Portfolio](https://www.datascienceportfol.io/evansajumathew)
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1e_Lr8hnxFZcFY5lJuNkXDz_E-phOZqRT/view?usp=sharing](https://drive.google.com/file/d/1e_Lr8hnxFZcFY5lJuNkXDz_E-phOZqRT/view?usp=sharing)
 
