@@ -7,7 +7,7 @@
 
 - ⏮ Previous Project [🫀Heart Failure Analysis & Prediction Model](https://github.com/evanmathew/Projects/blob/main/Machine%20Learning%20Model/Heart%20Failure%20Analysis%20%26%20Prediction%20Model/heart-failure-analysis-prediction-model-log-reg.ipynb)
 
-- ⚡ My Current Project **🎥 Movie Recommendation System Model (https://www.kaggle.com/code/evansajumathew/movie-recommendation-system)**
+- ⚡ My Current Project **🎥 Movie Recommendation System Model**
 
 - 🏆 My Latest Project [🏪 Rossman Store Sale Analysis](https://github.com/evanmathew/Projects/tree/main/Data%20Analysis%20(EDA)/Rossman%20Store%20Sale%20Analysis)
 
