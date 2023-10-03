@@ -19,7 +19,7 @@
 
 -  💼 My Portfolio [datascienceportfol.io/evansajumathew](https://www.datascienceportfol.io/evansajumathew)
 
-- 📄 Resume [Google Drive ](https://drive.google.com/file/d/1e_Lr8hnxFZcFY5lJuNkXDz_E-phOZqRT/view?usp=sharing)
+- 📄 Resume [Google Drive ](https://drive.google.com/file/d/1G_jtGJvgQEdTYI3-9cINg1tZhvIqrglb/view?usp=sharing)
 
 - ⚡ Fun fact **I'm Actually good in graphic designing**
 
