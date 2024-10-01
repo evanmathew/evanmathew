@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [Github Projects](https://github.com/evanmathew/Projects)
 
-- ⏮ Previous Project [🏪 Rossmann Store Sale Exploratory Data Analysis](https://github.com/evanmathew/Heart-Analysis-Using-Logistic-Regression/tree/main)
+- ⏮ Previous Project [ETL - University Course Extraction Using Spark Snowflake](https://github.com/evanmathew/ETL-University-Course-Extraction-Using-Spark-Snowflake)
 
 - ⚡ My Current Project **🎥 Movie Recommendation System Model (https://www.kaggle.com/code/evansajumathew/movie-recommendation-system)**
 
