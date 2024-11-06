@@ -5,19 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evanmathew&label=Profile%20views&color=0e75b6&style=flat" alt="evanmathew" /> </p>
 
-- 👨‍💻 All of my projects are available at [Github Projects](https://github.com/evanmathew/Projects)
+- 👨‍💻 All of my data analysis projects are available at [Github Projects](https://github.com/evanmathew/Data-Analysis-Projects)
 
 - ⏮ Previous Project [EURO 2024 - Real Time Data Warehouse Streaming](https://github.com/evanmathew/euro-2024-kafka-pinot-pipeline)
 
-- ⚡ My Current Project **🎥 Movie Recommendation System Model (https://www.kaggle.com/code/evansajumathew/movie-recommendation-system)**
+- ⚡ My Current Work [50 SQL Leetcode Problems](https://github.com/evanmathew/SQL-50-Leetcode-Problems)
 
-- 🏆 My Latest Project [🛳️ Titanic Survival Analysis & Classification Model (Kaggle Competition)](https://www.kaggle.com/code/evansajumathew/titanic-survival-analysis-prediction-ml-model#Titanic-Survival-Prediction-Project-%F0%9F%9A%A2)
+- 🏆 Kaggle Competition Project [🛳️ Titanic Survival Analysis & Classification Model (Kaggle Competition)](https://www.kaggle.com/code/evansajumathew/titanic-survival-analysis-prediction-ml-model#Titanic-Survival-Prediction-Project-%F0%9F%9A%A2)
 
 - 🕸️ Web Scraping [🔴 YouTube Data Scraping](https://github.com/evanmathew/YouTube-Data-Scrapping)
 
-- 🌱 I’m currently learning **Machine Learning and Natural Processing Language**
-
-- 📫 How to reach me **evanptc@gmail.com**
+- 🌱 I’m currently learning **Data Engineering**
 
 -  💼 My Portfolio [datascienceportfol.io/evansajumathew](https://www.datascienceportfol.io/evansajumathew)
 
@@ -27,8 +25,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/evansajumathew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evansajumathew" height="30" width="40" /></a>
-<a href="https://kaggle.com/evansajumathew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="evansajumathew" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/evansajumathew" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="evansajumathew" /></a>
+<a href="https://kaggle.com/evansajumathew" target="blank"><img align="center" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="evansajumathew"  /></a>
+<a href="mailto:evanptc@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="evansajumathew"/></a>
 </p>
 
 ### 💻 Tech Stack:
