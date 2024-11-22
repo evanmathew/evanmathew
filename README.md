@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evanmathew&label=Profile%20views&color=0e75b6&style=flat" alt="evanmathew" /> </p>
 
+# 💫 About Me:
+
 - 👨‍💻 All of my data analysis projects are available at [Github Projects](https://github.com/evanmathew/Data-Analysis-Projects)
 
 - ⏮ Previous Project [EURO 2024 - Real Time Data Warehouse Streaming](https://github.com/evanmathew/euro-2024-kafka-pinot-pipeline)
