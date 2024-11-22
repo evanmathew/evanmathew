@@ -3,6 +3,12 @@
 
 # 💫 About Me:
 
+I'm a working Analyst with over 2 years of experience in data analysis and data engineering.  
+
+With extensive experience in tools such as **Azure**, **Linux**, **Python**,**Docker**, **Apache Airflow**, **CI/CD**,  **MySQL**, **Power BI**, and **Excel**, I have successfully led multiple end-to-end data analytics projects. My journey includes working as an Analyst at **Globallogic India**, where I leveraged data to drive strategic decisions, enhance customer experiences, and streamline operational workflows.
+
+Currently, I focus on developing and honing my data engineer skills
+
 - 👨‍💻 All of my data analysis projects are available at [Github Projects](https://github.com/evanmathew/Data-Analysis-Projects)
 
 - ⏮ Previous Project [EURO 2024 - Real Time Data Warehouse Streaming](https://github.com/evanmathew/euro-2024-kafka-pinot-pipeline)
