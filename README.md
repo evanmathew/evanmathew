@@ -1,7 +1,3 @@
-<div style="background-color: #007BFF; padding: 20px;">
-    <h1 align="center" style="color: white;">Hi 👋, I'm Evan Saju Mathew</h1>
-    <h3 align="center" style="color: white;">Analyst at GlobalLogic Technology Limited</h3>
-</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evanmathew&label=Profile%20views&color=0e75b6&style=flat" alt="evanmathew" /> </p>
 
