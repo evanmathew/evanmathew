@@ -32,7 +32,7 @@ I’m currently focused on advancing my knowledge in **Data Engineering**, parti
 
 ## 💼 **Portfolio & Resources**  
 - 🌐 **Portfolio**: [Data Science Portfolio](https://www.datascienceportfol.io/evansajumathew)  
-- 📄 **Resume**: [Google Drive](https://drive.google.com/file/d/1pwB6r8fxRl6MCbpCSj3Ob-UBcHmyOq-F/view?usp=sharing)  
+- 📄 **Resume**: [Google Drive](https://drive.google.com/file/d/1OYXDb0P08KqzwnwLvNWNs99v_tZx5_Ul/view?usp=sharing)  
 
 
 
