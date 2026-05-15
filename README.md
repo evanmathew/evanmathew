@@ -61,7 +61,7 @@ ML model training and self-serve analytics at scale.
 ## 💼 Portfolio & Resources
 
 - 🌐 **Portfolio**: [datascienceportfol.io/evansajumathew](https://www.datascienceportfol.io/evansajumathew)
-- 📄 **Resume**: [Google Drive](https://drive.google.com/file/d/1OYXDb0P08KqzwnwLvNWNs99v_tZx5_Ul/view?usp=sharing)
+- 📄 **Resume**: [Google Drive](https://drive.google.com/file/d/14DloryV9eYv0NcBLwWvwu7EhsgtoqJGv/view?usp=drive_link)
 
 ---
 
