@@ -68,16 +68,16 @@ ML model training and self-serve analytics at scale.
 # 💻 Tech Stack
 
 ### Data Engineering & Streaming
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![Apache Kafka](https://skills.syvixor.com/api/icons?perline=15&i=kafka)
+![Apache Airflow](https://skills.syvixor.com/api/icons?perline=15&i=airflow)
+![Apache Spark](https://skills.syvixor.com/api/icons?perline=15&i=apachespark)
+![dbt](https://skills.syvixor.com/api/icons?perline=15&i=dbt)
 
 ### Databases & Warehouses
-![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=Amazon%20Redshift&logoColor=white)
+![Snowflake](https://skills.syvixor.com/api/icons?perline=15&i=snowflake)
+![Postgres](https://skills.syvixor.com/api/icons?perline=15&i=postgresql)
+![MySQL](https://skills.syvixor.com/api/icons?perline=15&i=mysql)
+![Amazon Redshift]()
 
 ### Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -91,7 +91,7 @@ ML model training and self-serve analytics at scale.
 
 ### Data Quality & Observability
 ![Great Expectations](https://img.shields.io/badge/Great%20Expectations-FF6B6B?style=for-the-badge)
-![dbt Tests](https://img.shields.io/badge/dbt%20Tests-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+![dbt Tests](https://skills.syvixor.com/api/icons?perline=15&i=dbt)
 
 ### Visualization
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
