@@ -77,7 +77,7 @@ ML model training and self-serve analytics at scale.
 ![Snowflake](https://skills.syvixor.com/api/icons?perline=15&i=snowflake)
 ![Postgres](https://skills.syvixor.com/api/icons?perline=15&i=postgresql)
 ![MySQL](https://skills.syvixor.com/api/icons?perline=15&i=mysql)
-![Amazon Redshift]()
+![Amazon Redshift](https://img.shields.io/badge/Amazon%20Redshift-8C4FFF?style=for-the-badge&logo=Amazon%20Redshift&logoColor=white)
 
 ### Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
